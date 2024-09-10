@@ -4,7 +4,7 @@ Junior Full Stack Web Developer
 
 *Connect with Me:*
 
-[<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ](https://www.linkedin.com/in/jacopo-legovini/)
+[<img align="left" src="https://static.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" width="30"> ]([https://www.linkedin.com/in/jacopo-legovini/](https://www.linkedin.com/in/jacopo-legovini-567a63ab/))
 
 <br/>
 
